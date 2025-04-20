@@ -34,3 +34,26 @@ p, button, span, a, label{
 }
 
 
+/********** SECTION 1 ************/
+
+.big-font {
+  font-size: 100px;
+  font-weight: 700;
+}
+.sameColor {
+  color: #8a47f6;
+}
+.line {
+  padding: 0 140px;
+  background-color: #8a47f6;
+}
+.slides {
+  height: 22px;
+  width: 22px;
+  background-color: #ededed;
+}
+.img-slider{
+  width: 58%;
+  position: absolute;
+  right: 0;
+}
