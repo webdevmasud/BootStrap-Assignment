@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+p, button, span, a, label{
+  font-family: "Quicksand", sans-serif;
+
+}
+.btn {
+  background-color: #fe8c45;
+  color: white;
+  font-weight: 300;
+}
+.btn:hover {
+  border: 1px solid #fe8c45;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.mlk{
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+/************ NAVBAR ************/
+
+.nav-link {
+  font-size: 20px;
+  transition: color .9s ;
+}
+.nav-link:hover{
+  color: #fe8c45;
+  border-bottom: 1px solid #fe8c45;
+}
+
+
