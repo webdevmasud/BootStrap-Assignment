@@ -89,3 +89,20 @@ p, button, span, a, label{
   font-size: 60px;
   font-weight: 900;
 }
+/************SECTION 5 ************/
+
+.sec5-h1{
+  font-size: 60px;
+  font-weight: 700;
+}
+.low-width{
+  width: 300px;
+}
+.icons{
+  height: 50px;
+  width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
