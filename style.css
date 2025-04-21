@@ -106,3 +106,13 @@ p, button, span, a, label{
   justify-content: center;
   cursor: pointer;
 }
+/**************** SECTION 6 ************/
+
+.sec6-h1{
+  font-size: 57px;
+  color: black;
+  font-weight: 700;
+}
+.sm{
+  font-size: 22px;
+}
